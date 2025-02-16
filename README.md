@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
 ## 🚀 About Me
-Hi! I'm Nafiz Ahmed Nafi, a **Computer Science & Engineering** student at BRAC University with a strong passion for **Data Analytics, visualization, and software development**. I love turning raw data into meaningful insights and building innovative tech solutions.
+Hi! I'm **Nafiz Ahmed Nafi**, a **Computer Science & Engineering** student at BRAC University with a strong passion for **Data Analytics, visualization, and software development**. I love turning raw data into meaningful insights and building innovative tech solutions.
 
 ## 🎯 What I Pursue
 - 📊 **Data Analytics & Visualization**: Pursuing to be an expert in transforming complex datasets into interactive dashboards & reports.
