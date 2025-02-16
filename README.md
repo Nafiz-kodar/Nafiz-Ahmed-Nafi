@@ -24,6 +24,6 @@ Hi! I'm Nafiz Ahmed Nafi, a **Computer Science & Engineering** student at BRAC U
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafiz-ahmed-365534210/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-github-username](https://github.com/Nafiz-kodar))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Nafiz-kodar))
 
 🚀 Let's collaborate and build something amazing together!
